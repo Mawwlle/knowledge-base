@@ -1,6 +1,6 @@
 # How to use?
 ```shell
-git clone https://github.com/Mawwlle/.dotfiles.git
+git clone git@github.com:Mawwlle/.dotfiles.git
 cd .dotfiles
 stow .
 ```
