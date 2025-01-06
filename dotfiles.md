@@ -3,6 +3,7 @@
 git clone git@github.com:Mawwlle/.dotfiles.git
 cd .dotfiles
 stow .
+source ~/.zshrc
 ```
 
 ### Зачем нужны dotfiles?
